@@ -21,7 +21,7 @@
 
 int main(void) {
         int fd = eventfd(0, 0);
-        int c = 1000 * 1000;
+        int c = 1000 * 100;
         clock_t start, end;
 
         struct timespec tim;

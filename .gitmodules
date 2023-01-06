@@ -1,3 +1,6 @@
 [submodule "qemu-affinity"]
 	path = qemu-affinity
 	url = https://github.com/zegelin/qemu-affinity
+[submodule "vm-cli"]
+	path = vm-cli
+	url = https://github.com/sinkap/vm-cli
